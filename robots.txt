@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+# Sitemap is added after configuring the actual public URL.
